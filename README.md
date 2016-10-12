@@ -5,10 +5,8 @@ The aim is to turn a real object into a 3D mesh, thanks to a large number of pic
 
 The code is written in french.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TP MODELISATION
-% MAXIME PESCHARD & GUILLAUME SINGLAND
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+## TP MODELISATION
+### MAXIME PESCHARD & GUILLAUME SINGLAND
 
 - lancer le script "launch.m" pour observer, sur une image choisie arbitrairement, le résultat de l'ensemble des travaux demandés.
   * Figure 1 : position des germes sur l'image
