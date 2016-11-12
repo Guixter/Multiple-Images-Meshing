@@ -5,6 +5,8 @@ The aim is to turn a real object into a 3D mesh, thanks to a large number of pic
 
 The code is written in french.
 
+![alt tag](dino.png)
+
 ## TP MODELISATION
 ### MAXIME PESCHARD & GUILLAUME SINGLAND
 
